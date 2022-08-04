@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877538223653",
+    "project_id": "kotlin-firebase-sample-d608f",
+    "storage_bucket": "kotlin-firebase-sample-d608f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877538223653:android:efcffe05abae26fee101cc",
+        "android_client_info": {
+          "package_name": "com.jazz.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877538223653-ft18sbe4jvfjvjbtbf1h89ovqurgdvtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUM299rQRDZLPCNKG2n9tWo8ksHJWrN_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877538223653-ft18sbe4jvfjvjbtbf1h89ovqurgdvtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
